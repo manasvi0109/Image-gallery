@@ -37,20 +37,7 @@ To get a local copy up and running, follow these simple steps:
 - Add your images to the `images` folder.
 - Update the HTML file (`index.html`) to include your images. You can add or remove image elements as needed.
 
-Example:
-```html
-<div class="gallery">
-  <figure class="gallery-item">
-    <img src="images/image1.jpg" alt="Image 1">
-  </figure>
-  <figure class="gallery-item">
-    <img src="images/image2.jpg" alt="Image 2">
-  </figure>
-  <!-- Add more images as needed -->
-</div>
-```
 
-## Customization
 
 You can customize the gallery by editing the CSS file (`styles.css`). Here are some common customizations:
 
